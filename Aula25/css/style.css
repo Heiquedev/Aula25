@@ -1,0 +1,46 @@
+body {
+    background-color: #212529;
+}
+
+.table,
+.table-bordered,
+.table-dark {
+    border-color: white;
+    border: 20px;
+}
+
+.gray th {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+}
+
+
+.gray td {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+}
+
+.imgPersonagens {
+    width: 150px;
+    height: 150px;
+    ;
+}
+
+.textoRadio {
+    padding-top: 3%;
+    color: aliceblue;
+}
+
+.textoGoat {
+    padding-top: 3%;
+    color: aliceblue;
+}
+
+.imgPortsKurosaki {
+    width: 30%;
+    height: 30%;
+    border-radius: 150%;
+
+}
